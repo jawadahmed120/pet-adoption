@@ -3,10 +3,6 @@ body,html {
     margin: 0;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 body {
     font-family: "Source Sans 3", serif;
 }
